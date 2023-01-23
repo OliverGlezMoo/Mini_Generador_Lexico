@@ -14,4 +14,5 @@ real = entero.entero+
 
 ### Ejecución
 
-![Mini_Generador_Léxico](https://user-images.githubusercontent.com/123349304/213985790-44f18187-801d-4722-9e6d-35df61e76022.jpg)
+![Mini_Generador_Léxico](https://user-images.githubusercontent.com/123349304/213994091-5ea058d9-4241-406a-a0e0-2591360ff08e.jpg)
+

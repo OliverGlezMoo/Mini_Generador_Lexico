@@ -1,6 +1,6 @@
 # Mini_Generador_Lexico
 
-# Descr 
+## Descripción 
 
 Un analizador léxico es un módulo destinado a leer caracteres del archivo de entrada, donde se encuentra la cadena a analizar, reconocer subcadenas que correspondan a símbolos del lenguaje y retornar los tokens correspondientes y sus atributos.
 
@@ -8,5 +8,10 @@ Un analizador léxico es un módulo destinado a leer caracteres del archivo de e
 
 Contruir una analizador léxico capaz de reconocer "identificadores y numeros reales" los cuales deben estar contruidos de la siguiente manera
 
-identificadores = letra(letra|digito)*                                                                                                                                   real = entero.entero+
+identificadores = letra(letra|digito)*
 
+real = entero.entero+
+
+### Ejecución
+
+![Mini_Generador_Léxico](https://user-images.githubusercontent.com/123349304/213985790-44f18187-801d-4722-9e6d-35df61e76022.jpg)

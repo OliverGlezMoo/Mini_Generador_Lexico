@@ -6,7 +6,7 @@ Un analizador léxico es un módulo destinado a leer caracteres del archivo de e
 
 ### Objetivo
 
-Contruir una analizador léxico capaz de reconocer "identificadores y numeros reales" los cuales deben estar contruidos de la siguiente manera
+Construir un analizador léxico capaz de reconocer "identificadores y números reales" los cuales deben estar construidos de la siguiente manera:
 
 identificadores = letra(letra|digito)*  
 real = entero.entero+
